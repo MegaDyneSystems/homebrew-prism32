@@ -1,9 +1,9 @@
 class Prism32 < Formula
   desc "Self-extending polymorphic AI super-agent"
   homepage "https://github.com/MegaDyneSystems/prism32"
-  url "https://github.com/MegaDyneSystems/prism32/raw/v7.1.0/prism32.py"
-  sha256 "d18b49c70b1b20c2bff44a0d5a2b492a7e96b2c5a67133b490d979ee3f119ed8"
-  version "7.1.0"
+  url "https://github.com/MegaDyneSystems/prism32/raw/v7.2.1/prism32.py"
+  sha256 "055abbec3bf24b1dc911a73a9d88f0d867e72427e0512a329241cb6a1d56c6ee"
+  version "7.2.1"
   license "Apache-2.0"
 
   depends_on "python@3.12"
